@@ -1,5 +1,3 @@
-# https://ArtiomRegino.github.io/rsschool-cv/cv
-
 # Artiom Regino
 **Belarus, Minsk**
 
@@ -7,7 +5,7 @@
 
 ## General info
 
-**Responsible Middle.NET developer with 3+ years of hands on experience. Skilled in backend web development with usage of ASP.NET Core. Implemented and maintained backend for 5 projects with foreign customers and supported 3 libraries for internal usage.
+**Responsible Middle.NET developer with 3+ years of hands on experience. Skilled in backend web development with usage of ASP.NET Core. Implemented and maintained backend for 5 projects with foreign customers and supported 2 libraries for internal usage.
 Have an experience on english speaking projects with everyday language usage.**
 
 ### Areas of Expertise:
@@ -23,16 +21,20 @@ Have an experience on english speaking projects with everyday language usage.**
 * Unit Tests covering with **Nunit**
 
 * **SQL (Postrgre Sql, Transact Sql)**
+
 * Suscessfully use **Scrum** in working routine
+
 * Everyday usage of VCS like **GIT** 
 
 ### Education:
 
-2021       RS School JS / FRONT-END Course
-2019       Epam 9-months business english cource
-2018  	   Epam .Net Mentoring Program for L2 Course
-2018       Epam .Net L1 Training Courses
-2014-2018  Bachelor - BSUIR, Faculty of Information Technologies and Control 
+| Year      | Activity                                                          |
+|:---------:|-------------------------------------------------------------------|
+| 2021      | RS School JS / FRONT-END Course                                   |
+| 2019      | Epam 9-months business english cource                             |
+| 2018      | Epam .Net Mentoring Program for L2 Course                         |
+| 2018      | Epam .Net L1 Training Courses                                     |
+| 2014-2018 | Bachelor - BSUIR, Faculty of Information Technologies and Control |
 
 
 ### Work Experience:
@@ -69,4 +71,5 @@ Tech part: Asp.Net Core, Entity Framework Core, Postgresql, Kafka.
 #### Language:
 
 Russian - Native
+
 English - B1/B2 - Upper Intermediate
