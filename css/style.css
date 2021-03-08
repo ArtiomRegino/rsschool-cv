@@ -1,0 +1,88 @@
+.stripe-pane {
+    width: 3%;
+    height: 100%;
+    background-color: #166ab8;
+    border-collapse: collapse;
+}
+
+.summary-pane {
+    width: 47%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.history-pane {
+  width: 47%;
+  height: 100%;
+  border-collapse: collapse;
+}
+
+.profile-photo {
+    width: 50%;
+    border: 6px solid #eff0f2;
+    border-radius: 3px;
+  }
+
+  .profile-name {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 26.8px;
+    font-weight: bold;
+    color: #166ab8;
+  }
+
+  .job-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18.5px;
+    font-weight: bold;
+    color: #444440;
+  }
+
+  .main-text {
+    font-family: 'Barlow', sans-serif;
+    font-size: 14px;
+    color: #444440;
+  }
+
+  .title-line {
+    border-top: 1px solid #e1e1e1;
+  }
+
+  .section-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+    color: #166ab8;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+
+  .contacts {
+    list-style-type: none;
+  }
+
+  .summary-pane section {
+    padding-left: 6%;
+    padding-right: 4%;
+  }
+
+  .history-pane section {
+    padding-left: 4%;
+    padding-right: 6%;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    width:900px;
+    height: 1000px;
+    margin:0 auto;
+    letter-spacing: 0.8px;
+    line-height: 1.45
+  }
+
+  .job-position {
+      margin-bottom: 2px;
+  }
+
+  body {
+    margin: 0%;
+  }
