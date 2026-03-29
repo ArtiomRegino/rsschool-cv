@@ -17,6 +17,10 @@
   border-collapse: collapse;
 }
 
+.photo-container {
+    text-align: center;
+}
+
 .profile-photo {
     width: 50%;
     border: 6px solid #eff0f2;
