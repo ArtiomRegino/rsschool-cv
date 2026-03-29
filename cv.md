@@ -30,7 +30,6 @@ Have an experience on english speaking projects with everyday language usage.**
 
 | Year      | Activity                                                          |
 |:---------:|-------------------------------------------------------------------|
-| 2021      | RS School JS / FRONT-END Course                                   |
 | 2019      | Epam 9-months business english cource                             |
 | 2018      | Epam .Net Mentoring Program for L2 Course                         |
 | 2018      | Epam .Net L1 Training Courses                                     |
